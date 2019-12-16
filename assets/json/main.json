@@ -1,0 +1,146 @@
+{
+    "1":{
+        "brand":"Adidas",
+        "model":"Nite Jogger",
+        "price":130,
+        "sizes":[7.5, 8, 11],
+        "images":"assets/json/product/1.png",
+        "sex":"Man"
+    },
+    "2":{
+        "brand":"Adidas",
+        "model":"Ozweego",
+        "price":100,
+        "sizes":[8.5, 9, 9.5],
+        "images":"assets/json/product/2.png",
+        "sex":"Man"
+    },
+    "3":{
+        "brand":"Adidas",
+        "model":"Rivalry TR",
+        "price":120,
+        "sizes":[10, 10.5, 11],
+        "images":"assets/json/product/3.png",
+        "sex":"Man"
+    },
+    "4":{
+        "brand":"Nike",
+        "model":"Air Force 1 Winter GORE-TEX",
+        "price":150,
+        "sizes":[7.5, 7, 9, 9.5],
+        "images":"assets/json/product/4.png",
+        "sex":"Man"
+    },
+    "5":{
+        "brand":"Nike",
+        "model":"Zoom Freake 1",
+        "price":125,
+        "sizes":[10.5],
+        "images":"assets/json/product/5.png",
+        "sex":"Man"
+    },
+    "6":{
+        "brand":"Puma",
+        "model":"RS-X Hard Drive",
+        "price":110,
+        "sizes":[10.5],
+        "images":"assets/json/product/6.png",
+        "sex":"Man"
+    },
+    "7":{
+        "brand":"Puma",
+        "model":"RS 9.8 Trail",
+        "price":115,
+        "sizes":[10.5],
+        "images":"assets/json/product/7.png",
+        "sex":"Man"
+    },
+    "8":{
+        "brand":"Puma",
+        "model":"Alteration Kurve",
+        "price":135,
+        "sizes":[10.5],
+        "images":"assets/json/product/8.png",
+        "sex":"Man"
+    },
+    "9":{
+        "brand":"Puma",
+        "model":"The Ren Boot",
+        "price":140,
+        "sizes":[10.5],
+        "images":"assets/json/product/9.png",
+        "sex":"Man"
+    },
+    "10":{
+        "brand":"Nike",
+        "model":"Air Max 270 React",
+        "price":150,
+        "sizes":[10.5],
+        "images":"assets/json/product/10.png",
+        "sex":"Woman"
+    },
+    "11":{
+        "brand":"Nike",
+        "model":"Joyride Dual Run",
+        "price":120,
+        "sizes":[10.5],
+        "images":"assets/json/product/11.png",
+        "sex":"Man"
+    },
+    "12":{
+        "brand":"Nike",
+        "model":"ZoomX VaporFly NEXT%",
+        "price":155,
+        "sizes":[10.5],
+        "images":"assets/json/product/12.png",
+        "sex":"Woman"
+    },
+    "13":{
+        "brand":"Nike",
+        "model":"React-Type GTX",
+        "price":125,
+        "sizes":[10.5],
+        "images":"assets/json/product/13.png",
+        "sex":"Man"
+    },
+    "14":{
+        "brand":"New Balance",
+        "model":"997 Sport",
+        "price":165,
+        "sizes":[10.5],
+        "images":"assets/json/product/14.png",
+        "sex":"Man"
+    },
+    "15":{
+        "brand":"Jordan",
+        "model":"Proto-Max 720",
+        "price":150,
+        "sizes":[10.5],
+        "images":"assets/json/product/15.png",
+        "sex":"Man"
+    },
+    "16":{
+        "brand":"Jordan",
+        "model":"“Why Not?” Zer0.2 SE",
+        "price":155,
+        "sizes":[10.5],
+        "images":"assets/json/product/16.png",
+        "sex":"Man"
+    },
+    "17":{
+        "brand":"Jordan",
+        "model":"Air Jordan 1 Mid",
+        "price":125,
+        "sizes":[10.5],
+        "images":"assets/json/product/17.png",
+        "sex":"Man"
+    },
+    "18":{
+        "brand":"Jordan",
+        "model":"Air Jordan V Island Green",
+        "price":175,
+        "sizes":[10.5],
+        "images":"assets/json/product/18.png",
+        "sex":"Man"
+    }
+}
